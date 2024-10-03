@@ -1,0 +1,22 @@
+* {background-color: black}
+.heading{
+    font-family:Palatino;
+}
+#lj{
+   color:gold; 
+}
+#pizza{
+    color:red;
+}
+#dosa{
+    color:green;
+}
+
+.list{
+    background-color: black;
+    color:white;
+    font-family:Palatino;
+}
+.des{
+    color:white;
+}
